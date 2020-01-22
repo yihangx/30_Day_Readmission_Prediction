@@ -59,6 +59,3 @@ Data Type | Categorical | Categorical & Numerical
 
 Presentation Slides: [Download](https://ziyuan-shen.github.io/files/slides/Readmission_Prediction.pdf)
 
-## Contact
-
-Ziyuan Shen - ziyuan.shen@duke.edu
